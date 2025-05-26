@@ -4,12 +4,12 @@ body {
 }
 
 img {
-  width: 100px;
+  width: 500px;
   transition: transform 0.3s;
 }
 
 img:hover {
-  transform: scale(5);
+  transform: scale(1.2);
 }
 button {
   padding: 10px 20px;
